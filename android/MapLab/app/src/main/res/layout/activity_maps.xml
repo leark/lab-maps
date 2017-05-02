@@ -5,4 +5,11 @@
     android:name="com.google.android.gms.maps.SupportMapFragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="edu.uw.shl7.maplab.MapsActivity" />
+    tools:context="edu.uw.shl7.maplab.MapsActivity"
+    map:mapType="hybrid"
+    map:cameraTargetLat="47.6541808"
+    map:cameraTargetLng="-122.3082977"
+    map:cameraZoom="13"
+    map:uiCompass="true"
+    map:uiZoomControls="true"
+    />
