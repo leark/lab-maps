@@ -9,7 +9,7 @@
     map:mapType="hybrid"
     map:cameraTargetLat="47.6541808"
     map:cameraTargetLng="-122.3082977"
-    map:cameraZoom="13"
+    map:cameraZoom="18"
     map:uiCompass="true"
     map:uiZoomControls="true"
     />
